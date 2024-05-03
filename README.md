@@ -23,6 +23,7 @@ Ma dernière réalisation pour le compte de l'entreprise KARDOS se trouve ici : 
 - Analyse de la clientèle d'un concessionnaire et recommandation de véhicules, Machine Learning - Clustering
 - Prédiction de l'affluence sur des lignes de bus, Machine Learning - Deep Learning - Series temporelles
 - Prédiction des salaires à partir des descriptions de postes, NLP
+- Creation d'un data warehouse 
 
 ### Technologies favoris
 
