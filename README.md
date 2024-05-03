@@ -28,24 +28,19 @@ Ma dernière réalisation pour le compte de l'entreprise KARDOS se trouve ici : 
 
 Langages, Frameworks et autres outils que j'utilise ou ai déjà utilisés :
 
-- Python
-- R
-- Scala
-- Pandas
-- NumPy
-- TensorFlow
-- PyTorch
-- Scikit-Learn
-- Java
-- Angular
-- Javascript 
-- Hadoop
-- Spark
-- MySQL
-- Oracle
-- MongoDB
-- Mlflow
-- Docker
-- AWS
-- Seaborn
-- Power BI
+| Langage/Framework/Outil | Langage/Framework/Outil |
+|--------------------------|--------------------------|
+| Python                   | R                      |
+| Scala                        | Spark                  |
+|  Java               | Javascript               |
+| Pandas                   | Hadoop                   |
+| NumPy                    | Spark                    |
+| TensorFlow               | MySQL                    |
+| PyTorch                  | Oracle                   |
+| Scikit-Learn             | MongoDB                  |
+| Angular                     | Mlflow                   |
+|   Docker                       |  Power BI                  |
+|       Seaborn                    | AWS                      |
+|                          |                  |
+|                          |                  |
+
