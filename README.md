@@ -1,4 +1,4 @@
-👋 Hello! Je suis Ferol TATANG Fomekon
+👋 Hello! Je suis Ferol TATANG
 
 Je suis Ingénieur en Machine Learning et aussi Ingénieur en Data Analyst 
 
