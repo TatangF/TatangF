@@ -5,7 +5,7 @@ Je suis Ingénieur en Machine Learning et aussi Ingénieur en Data Scientist
 - 💻 Je suis familier aux environnements et outils Big Data
 - 🌱 Je suis passionné d'IA et de data, et j'ai de fortes expériences en NLP (et LLM) et Computer Vision
 - 🧮  J'ai aussi le background en Mathématiques
-- 💬 Je suis joignable facilement sur [LinkedIn](https://www.linkedin.com/in/ferol-tatang-085029201)
+- 💬 Je suis joignable facilement sur [LinkedIn](https://www.linkedin.com/in/ferol-tatang)
 
 ### Data Science 
 
