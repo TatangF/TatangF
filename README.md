@@ -10,7 +10,7 @@ Je suis Ingénieur en Machine Learning et aussi Ingénieur en Data Scientist
 ### Data Science 
 
 Vous trouverez quelques-unes de mes réalisations publiques en IA [ici](https://github.com/TatangF?tab=repositories). Je travaille encore à bien documenter mes Readme !
-Ma dernière réalisation pour le compte de l'entreprise KARDOS se trouve ici : [Kardos](https://github.com/TatangF/DataViz2023).
+Ma dernière réalisation pour le compte de l'entreprise KARDOS se trouve ici : [Kardos](https://github.com/TatangF/CoutEnergie).
 
 #### Mes dernières réalisations :
 
