@@ -1,4 +1,4 @@
-# 👋 Ferol TATANG FOMEKON
+# Salut, moi c'est Ferol TATANG FOMEKON
 
 ### AI/ML Engineer & Data Scientist | Freelance Consultant Data & IA | Builder de PROF_MathsCPGE 🧮
 
@@ -16,14 +16,14 @@ Diplômé MSc Big Data & AI (ESTIA, 2023) — j'aide les entreprises à concevoi
 - 📱 Application mobile React Native / Expo (iOS & Android en cours)
 - 💳 Intégration Stripe, conformité RGPD, charte IA éducation nationale
 
-🔗 [profmathscpge-ai.fr](https://profmathscpge-ai.fr)
+🔗 [profmathscpge-ai.fr](https://www.profmathscpge-ai.fr/)
 
 ---
 
 ## 💼 Profil
 
 - 🤖 **Machine Learning / Data Scientist** freelance — NLP, LLM, Computer Vision
-- 📐 **Enseignant vacataire de Mathématiques** (Lycée - CPGE, Académie de Versailles, depuis 2024) — un double profil rare alliant rigueur mathématique et IA appliquée
+- 📐 **Enseignant de Mathématiques et SNT(Sciences numériques et technologie)** (Lycée - CPGE) — un double profil rare alliant rigueur mathématique et IA appliquée
 - 🧠 Solides bases en **Big Data** : pipelines de traitement, data warehouse, environnements distribués
 - 🏆 Top 3 dans des compétitions internationales d'IA
 - 🔬 Expérience en recherche (Laboratoire GéoLoc, Université Gustave Eiffel)
