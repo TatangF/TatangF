@@ -96,8 +96,8 @@ Diplômé MSc Big Data & AI (ESTIA, 2023) — j'aide les entreprises à concevoi
 ## 📫 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferol-tatang)
-[![Site](https://img.shields.io/badge/-PROF_MathsCPGE-2D2560?style=flat-square&logo=googlechrome&logoColor=white)](https://profmathscpge-ai.fr)
+[![Site](https://img.shields.io/badge/-PROF_MathsCPGE-2D2560?style=flat-square&logo=googlechrome&logoColor=white)](https://www.profmathscpge-ai.fr/)
 
 ---
 
-> 💡 *Ouvert aux opportunités en Data Science, Machine Learning, LLMOps et Data Management — en CDI ou mission freelance.*
+> 💡 *Ouvert aux opportunités en IA, Data Science, Machine Learning, LLMOps et Data Management — en CDI ou mission freelance.*
