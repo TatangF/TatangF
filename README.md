@@ -2,7 +2,7 @@
 
 ### AI/ML Engineer & Data Scientist | Freelance Consultant Data & IA | Builder de PROF_MathsCPGE 🧮
 
-Diplômé MSc Big Data & AI (ESTIA, 2023) — j'aide les entreprises à concevoir et déployer des solutions d'IA appliquée (NLP, LLM, Computer Vision), et je construis ma propre plateforme EdTech alimentée par l'IA.
+Diplômé MSc Big Data & AI (ESTIA, 2023) — j'accompagne les entreprises dans la conception et le déploiement de solutions d'IA appliquée (NLP, LLM, Computer Vision), et je construis ma propre plateforme EdTech alimentée par l'IA.
 
 ---
 
@@ -100,4 +100,4 @@ Diplômé MSc Big Data & AI (ESTIA, 2023) — j'aide les entreprises à concevoi
 
 ---
 
-> 💡 *Ouvert aux opportunités en IA, Data Science, Machine Learning, LLMOps et Data Management — en CDI ou mission freelance.*
+> 💡 *Ouvert aux opportunités en IA, Data Science, Machine Learning, LLMOps, ML/MLOps Engineer et Data Management — en CDI ou mission freelance.*
