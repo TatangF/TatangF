@@ -35,6 +35,7 @@ Diplômé MSc Big Data & AI (ESTIA, 2023) — j'aide les entreprises à concevoi
 
 | Projet | Domaine | Stack |
 |---|---|---|
+|⚡ Prédiction de Fin d'Alerte Orageuse (2026)|ML / Séries temporelles / Météo|Python, Pandas, Scikit-Learn, streamlit|
 | [**Estimation du coût énergétique des entreprises**](https://github.com/TatangF/CoutEnergie) — pour KARDOS | ML / NLP | Python, Scikit-Learn, NLP |
 | Détection & extraction de tables dans des documents non structurés | ML / NLP / Document AI | Python, Deep Learning |
 | Détection d'insectes ravageurs | Deep Learning / Computer Vision | TensorFlow / PyTorch |
