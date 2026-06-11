@@ -1,4 +1,4 @@
-# Salut, moi c'est Ferol TATANG FOMEKON
+# Salut, moi c'est Ferol TATANG FOMEKON ♞ 
 
 ### AI/ML Engineer & Data Scientist | Freelance Consultant Data & IA | Builder de PROF_MathsCPGE 🧮
 
