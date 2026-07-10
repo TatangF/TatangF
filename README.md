@@ -1,103 +1,118 @@
-# Salut, moi c'est Ferol TATANG FOMEKON ♞ 
+<div align="center">
 
-### AI/ML Engineer & Data Scientist | Freelance Consultant Data & IA | Builder de PROF_MathsCPGE
+# Salut, moi c'est Ferol TATANG FOMEKON 👋
 
-Diplômé MSc Big Data & AI (ESTIA, 2023) — j'accompagne les entreprises dans la conception et le déploiement de solutions d'IA appliquée (NLP, LLM, Computer Vision), et je construis ma propre plateforme EdTech alimentée par l'IA.
+### Ingénieur IA — Spécialiste Systèmes Agentiques (MCP · RAG · Orchestration multi-agents)
+
+*Je conçois et j'exploite en autonomie une plateforme IA agentique en production réelle depuis 2022.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ferol--tatang-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferol-tatang)
+[![Email](https://img.shields.io/badge/Email-Tatang.ferol%40yahoo.fr-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Tatang.ferol@yahoo.fr)
+[![Portfolio](https://img.shields.io/badge/Plateforme-profmathscpge--ai.fr-1F2A44?style=flat-square&logo=vercel&logoColor=white)](https://profmathscpge-ai.fr)
+
+</div>
 
 ---
 
-## Projet phare : PROF_MathsCPGE
+## 🧭 En bref
 
-**Plateforme web & mobile (React Native) de tutorat mathématique alimentée par l'IA**, destinée aux élèves de Lycée et CPGE.
+Je ne fais pas que suivre les tendances IA, je les mets à l'épreuve du réel. Depuis 2022, je conçois, déploie et fais tourner **en production continue** une plateforme agentique — pas un POC, pas un notebook, un système que de vrais utilisateurs utilisent chaque jour.
 
-- 🔧 Stack : Node.js / Express / MongoDB Atlas / API Anthropic Claude / Railway
+Ma conviction : l'IA générative ne vaut que si elle est **industrialisée comme n'importe quel système critique** — typage strict, tests robustes, CI/CD, monitoring. L'innovation sans rigueur ne survit pas au premier pic de charge.
+
+- 🤖 **Systèmes agentiques** — architecture multi-agents, orchestration d'outils, function calling
+- 🔌 **MCP (Model Context Protocol)** — conception de serveurs MCP custom pour standardiser le routage agent ↔ outils
+- 📚 **RAG en production** — pipelines LCEL, chunking sémantique, bases vectorielles, recherche hybride
+- ⚙️ **LLMOps & MLOps** — CI/CD, monitoring, gestion de secrets, résilience système
+- 🎓 Diplômé **MSc Big Data & IA** (ESTIA, 2023)
+
+---
+
+## 🚀 Projet phare : PROF_MathsCPGE
+
+**Plateforme web & mobile de tutorat mathématique alimentée par l'IA**, destinée aux élèves de Lycée et CPGE — conçue, développée et exploitée en autonomie complète depuis 2022.
+
+- 🧩 **Serveur MCP custom** exposant des outils dédiés au tutorat (`chercher_exercice`, `obtenir_correction`, `obtenir_indice`, `obtenir_progression`) — découple la logique métier de l'API Claude et standardise le routage des appels agents
 - ⚡ Architecture **streaming SSE** + approche **probe-first** pour optimiser le Time-To-First-Token
-- 🛠️ Système d'outils **MCP custom** (`chercher_exercice`, `obtenir_correction`, `obtenir_indice`, `obtenir_progression`)
+- 🏗️ Industrialisation CI/CD sur Railway avec gestion des secrets et alerting automatisé pour la supervision de la disponibilité
 - 📱 Application mobile React Native / Expo (iOS & Android en cours)
-- 💳 Intégration Stripe, conformité RGPD, charte IA éducation nationale
 
-🔗 [profmathscpge-ai.fr](https://www.profmathscpge-ai.fr/)
+**Stack :** `Node.js` `Express` `MongoDB Atlas` `API Anthropic Claude` `MCP` `Railway` `React Native`
 
----
-
-## 💼 Profil
-
-- 🤖 **Machine Learning / Data Scientist** freelance — NLP, LLM, Computer Vision
-- 📐 **Enseignant de Mathématiques et SNT(Sciences numériques et technologie)** (Lycée - CPGE) — un double profil rare alliant rigueur mathématique et IA appliquée
-- 🧠 Solides bases en **Big Data** : pipelines de traitement, data warehouse, environnements distribués
-- 🏆 Top 3 dans des compétitions internationales d'IA
-- 🔬 Expérience en recherche (Laboratoire GéoLoc, Université Gustave Eiffel)
-- 🎓 R&D / PoC NLP pour Chanel (mission freelance)
+🔗 [profmathscpge-ai.fr](https://profmathscpge-ai.fr)
 
 ---
 
-## 🔥 Réalisations sélectionnées
+## 🔬 Projet open source : EnterpriseRAG-Ollama
 
-| Projet | Domaine | Stack |
-|---|---|---|
-|⚡ Prédiction de Fin d'Alerte Orageuse (2026)|ML / Séries temporelles / Météo|Python, Pandas, Scikit-Learn, streamlit|
-| [**Estimation du coût énergétique des entreprises**](https://github.com/TatangF/CoutEnergie) — pour KARDOS | ML / NLP | Python, Scikit-Learn, NLP |
-| Détection & extraction de tables dans des documents non structurés | ML / NLP / Document AI | Python, Deep Learning |
-| Détection d'insectes ravageurs | Deep Learning / Computer Vision | TensorFlow / PyTorch |
-| Recommandation de véhicules à partir de profils clients | ML / Clustering | Scikit-Learn, Pandas |
-| Prédiction de l'affluence sur des lignes de bus | Deep Learning / Séries temporelles | TensorFlow, Pandas |
-| Prédiction de salaires à partir de descriptions de postes | NLP | Python, Scikit-Learn |
-| Classification de critiques de films | NLP | Python, NLP |
-| Classification de conversations de groupe | NLP | Python, NLP |
-| Recensement agricole européen 2020 — cas du Pays Basque | Data Analysis | Pandas, Numpy, Seaborn, Plotly |
-| Conception d'un Data Warehouse | Data Engineering | SQL, ETL |
+**Pipeline RAG production-grade, 100% local** — conçu pour être portable sur tout environnement d'entreprise, sans dépendance à une API cloud tierce.
 
-📂 Tous mes projets : [github.com/TatangF?tab=repositories](https://github.com/TatangF?tab=repositories)
+- Stack 100% locale (Ollama, Chroma) pour répondre à des contraintes de gouvernance des données et de coût zéro-API-externe — transposable en environnement on-premise ou air-gapped
+- Typage strict Pydantic sur l'ensemble des contrats de données inter-composants (`RAGQuery` / `RAGResponse` / `SourceDocument`)
+- Hiérarchie d'exceptions métier dédiée pour un debugging et un monitoring de niveau production
+- Architecture d'agent extensible : le RAG est encapsulé comme un outil typé, permettant d'ajouter de nouveaux outils sans régression sur la logique de routage
+
+**Stack :** `Python` `LangChain` `LCEL` `Ollama` `Chroma` `Pydantic` `pytest`
+
+🔗 [github.com/TatangF/EnterpriseRAG-Ollama](https://github.com/TatangF/EnterpriseRAG-Ollama)
 
 ---
 
-## 🛠️ Stack technique
+## 🛠️ Tech Stack
 
-**Langages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Agents IA & Orchestration**
 
-**ML / Data Science**
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6E56CF?style=flat-square)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-**Big Data / Infra**
-![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+**RAG & Recherche**
 
-**Données & BI**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![Chroma](https://img.shields.io/badge/Chroma-FF6F00?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-**Web / Apps**
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+**Backend & Cloud**
 
-**LLM & GenAI**
-![Anthropic Claude](https://img.shields.io/badge/-Claude%20API-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Streaming SSE](https://img.shields.io/badge/-SSE%20Streaming-000000?style=flat-square)
-![MCP](https://img.shields.io/badge/-MCP%20Tools-5A5A5A?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+
+**Data & MLOps**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Ferol's GitHub stats](https://github-readme-stats.vercel.app/api?username=TatangF&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TatangF&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+## 🌱 En ce moment
+
+- Je fais monter en robustesse mes pipelines RAG et mes architectures multi-agents en conditions réelles de production
+- Je documente et open-source les briques réutilisables issues de mon travail sur PROF_MathsCPGE
+- Toujours en apprentissage continu : chaque nouveauté du monde agentique est confrontée à la réalité du terrain avant d'être adoptée
 
 ## 📫 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferol-tatang)
-[![Site](https://img.shields.io/badge/-PROF_MathsCPGE-2D2560?style=flat-square&logo=googlechrome&logoColor=white)](https://www.profmathscpge-ai.fr/)
+**[LinkedIn](https://www.linkedin.com/in/ferol-tatang)** · **[Email](mailto:Tatang.ferol@yahoo.fr)** · **[profmathscpge-ai.fr](https://profmathscpge-ai.fr)**
 
----
-
-> 💡 *Ouvert aux opportunités en IA, Data Science, Machine Learning, LLMOps, ML/MLOps Engineer et Data Management — en CDI ou mission freelance.*
+<div align="center">
+<sub>Disponible pour des missions freelance en ingénierie IA — systèmes agentiques, RAG, LLMOps</sub>
+</div>
