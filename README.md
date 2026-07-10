@@ -6,6 +6,19 @@ Diplômé MSc Big Data & AI (ESTIA, 2023) — je conçois et exploite en autonom
 
 ---
 
+## 🧠 Compétences
+
+| Domaine | Technologies |
+|---|---|
+| **Agents IA & Orchestration** | LangChain, LangGraph, MCP (Model Context Protocol), tool use, function calling, architecture multi-agents |
+| **RAG & Recherche** | Pipelines RAG (LCEL), chunking sémantique, embeddings, bases vectorielles (Qdrant, Chroma, MongoDB Atlas), reranking |
+| **LLM & Intégration API** | API Anthropic Claude, OpenAI, HuggingFace Transformers, fine-tuning (CamemBERT, DistilBERT, RoBERTa) |
+| **MLOps & Production** | MLflow, DVC, CI/CD (GitHub Actions, Railway), Docker, Kubernetes, monitoring |
+| **Backend & Cloud** | FastAPI, Node.js/Express, Python, AWS (S3, Lambda, DynamoDB, EC2, RDS), GCP |
+| **Data & Bases de données** | MongoDB Atlas, PostgreSQL, MySQL, Data Lake, ETL |
+
+---
+
 ## Projet phare : PROF_MathsCPGE
 
 **Plateforme web & mobile (React Native) de tutorat mathématique alimentée par l'IA**, destinée aux élèves de Lycée et CPGE.
@@ -30,8 +43,8 @@ Diplômé MSc Big Data & AI (ESTIA, 2023) — je conçois et exploite en autonom
 
 ## 📊 GitHub Stats
 
-![Ferol's GitHub stats](https://github-readme-stats.vercel.app/api?username=TatangF&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TatangF&layout=compact&hide_border=true)
+![Ferol's GitHub stats](https://github-stats-extended.vercel.app/api?username=TatangF&show_icons=true&hide_border=true&count_private=true)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=TatangF&layout=compact&hide_border=true)
 
 ---
 
