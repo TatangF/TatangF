@@ -1,67 +1,188 @@
-# 👋 Salut, moi c'est Ferol TATANG FOMEKON ♞
+# 👋 Bonjour, je suis Ferol TATANG FOMEKON ♞
 
-### **Principal AI Engineer & Architecte Systèmes Agentiques**
-*L'intersection de l'IA générative de pointe et de la rigueur du Software Engineering.*
+## Principal AI Engineer & Architecte Systèmes Agentiques
+### Architectures IA génératives fiables, systèmes distribués et ingénierie logicielle de niveau industriel.
 
 <p align="left">
-  <a href="https://linkedin.com/in/ferol-tatang"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:Tatang.ferol@yahoo.fr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://profmathscpge-ai.fr"><img src="https://img.shields.io/badge/Platform-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Platform"></a>
+  <a href="https://linkedin.com/in/ferol-tatang">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:Tatang.ferol@yahoo.fr">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://profmathscpge-ai.fr">
+    <img src="https://img.shields.io/badge/Platform-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Platform">
+  </a>
 </p>
 
 ---
 
-## 💡 Philosophie & Expertise
+# 🧠 Vision d’architecte
 
-Diplômé **MSc Big Data & AI (ESTIA)**, je conçois, déploie et opère des architectures IA agentiques en production réelle depuis 2022. Mon approche refuse le *"hype-driven development"* : j'aligne l'innovation des LLMs avec les standards industriels les plus stricts (**typage fort, architectures pilotées par les événements, tests robustes et CI/CD**).
+Je conçois et industrialise des systèmes d’intelligence artificielle capables de fonctionner dans des environnements réels : **scalables, observables, sécurisés et maintenables**.
 
-Mon focus actuel : Maximiser le ROI et la fiabilité des modèles de langage via le **Model Context Protocol (MCP)**, l'orchestration multi-agents avancée (LangGraph) et le RAG haute performance.
+Mon approche repose sur une conviction simple :
 
----
+> Une IA performante en production n’est pas uniquement un modèle puissant. C’est une architecture complète combinant données, modèles, logiciel, infrastructure et gouvernance.
 
-## 🛠️ Core Competencies & Stack
-
-| Domaine | Technologies Clés |
-| :--- | :--- |
-| **Architectures Agentiques** | `LangGraph` • `MCP (Model Context Protocol)` • `Tool Use` • `Function Calling` • `Multi-agent Systems` |
-| **RAG & Advanced Search** | `Pipelines RAG (LCEL)` • `Semantic Chunking` • `Embeddings` • `Reranking` • `Qdrant` • `Chroma` • `MongoDB Atlas` |
-| **LLMs & Intégration** | `Anthropic Claude API` • `OpenAI API` • `HuggingFace Transformers` • `Fine-tuning (CamemBERT, DistilBERT, RoBERTa)` |
-| **MLOps & Industrialisation** | `MLflow` • `DVC` • `Docker` • `Kubernetes` • `CI/CD (GitHub Actions)` • `Monitoring & Observabilité` |
-| **Backend & Cloud Architecture** | `Python` • `FastAPI` • `Node.js` • `AWS (S3, Lambda, DynamoDB, EC2, RDS)` • `GCP` • `PostgreSQL` • `ETL` |
+Je transforme les avancées rapides des **Large Language Models (LLM)** et de l’IA générative en solutions d’ingénierie robustes, alignées avec les contraintes industrielles.
 
 ---
 
-## 🚀 Projets Majeurs (Production & Open-Source)
+# 🚀 Expertise principale
 
-### 🪐 [PROF_MathsCPGE](https://profmathscpge-ai.fr) — *Platform Lead & Architect*
-*Plateforme web & mobile (React Native) d'IA-tutorat à haute disponibilité pour les étudiants en classes préparatoires.*
-* **Optimisation de la performance :** Implémentation d'une architecture de streaming SSE combinée à une approche *probe-first*, réduisant drastiquement le *Time-To-First-Token* (TTFT).
-* **Écosystème Agentique :** Conception d'un système d'outils MCP sur-mesure (`chercher_exercice`, `obtenir_correction`, `obtenir_indice`, `obtenir_progression`) garantissant des réponses contextualisées et déterministes.
-* **Stack :** `Node.js` • `Express` • `MongoDB Atlas` • `Anthropic Claude API` • `Railway` • `React Native / Expo`
+## 🤖 IA Générative & Architectures Agentiques
 
-### 📦 [EnterpriseRAG-Ollama](https://github.com/TatangF/EnterpriseRAG-Ollama) — *Creator & Maintainer*
-*Pipeline RAG production-grade, 100% local, conçu pour les environnements d'entreprise à fortes contraintes de confidentialité.*
-* **Fiabilité du code :** Typage strict via `Pydantic` sur l'intégralité des contrats de données inter-composants, éliminant les comportements imprévisibles en production.
-* **Modularité :** Architecture agentique extensible où le pipeline RAG est encapsulé comme un outil typé et réutilisable.
-* **Stack :** `Ollama` • `Chroma` • `LangChain` • `LCEL` • `Python`
+Conception de systèmes intelligents capables de raisonner, planifier et collaborer :
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TatangF&show_icons=true&theme=nord&count_private=true" alt="Ferol's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatangF&layout=compact&theme=nord" alt="Top Languages" height="180px" />
-</p>
+- Architectures multi-agents.
+- Agents autonomes orientés objectifs.
+- LLM orchestration.
+- Retrieval Augmented Generation (**RAG**).
+- Bases vectorielles et recherche sémantique.
+- Évaluation, monitoring et optimisation des applications IA.
+- Sécurisation des systèmes IA en production.
 
 ---
 
-## 📫 Me contacter
+## 🏗️ Software Engineering & Architecture Système
 
-* **LinkedIn :** [linkedin.com/in/ferol-tatang](https://linkedin.com/in/ferol-tatang)
-* **Email :** [Tatang.ferol@yahoo.fr](mailto:Tatang.ferol@yahoo.fr)
-* **Plateforme :** [profmathscpge-ai.fr](https://profmathscpge-ai.fr)
+Je considère l’IA comme un composant logiciel critique nécessitant les mêmes exigences qu’un système industriel :
 
-*Disponible pour des interventions stratégiques, du consulting d'architecture IA ou des opportunités de Lead / Principal Engineering.*
-README.md
-Affichage de README.md.
+- Architecture distribuée.
+- Architecture événementielle (*Event-Driven Architecture*).
+- Domain Driven Design (**DDD**).
+- API robustes et fortement typées.
+- Principes SOLID et Clean Architecture.
+- Tests automatisés.
+- CI/CD.
+- Observabilité et fiabilité opérationnelle.
+
+---
+
+## 📊 Data Engineering & Cloud
+
+Construction de plateformes capables de supporter des workloads IA modernes :
+
+- Architectures Big Data.
+- Pipelines de données fiables.
+- Traitement temps réel.
+- Infrastructure cloud-native.
+- Automatisation des déploiements.
+- Gouvernance et qualité des données.
+
+---
+
+# 🎯 Philosophie technique
+
+Je refuse le développement guidé uniquement par l’effet de mode (*hype-driven development*).
+
+Une innovation technologique n’a de valeur que si elle respecte cinq principes fondamentaux :
+
+| Principe | Objectif |
+|---|---|
+| Robustesse | Fonctionner durablement en production |
+| Scalabilité | Supporter la croissance des usages |
+| Maintenabilité | Simplifier l’évolution du système |
+| Sécurité | Protéger les données et les utilisateurs |
+| Valeur métier | Générer un impact mesurable |
+
+---
+
+# 🧩 Domaines d’intervention
+
+## Conseil & Architecture IA
+
+- Audit d’architectures IA existantes.
+- Définition de stratégies GenAI.
+- Conception de plateformes agentiques.
+- Choix technologiques et patterns d’architecture.
+
+## Industrialisation IA
+
+Transformation de prototypes expérimentaux en produits fiables :
+
+- Passage du PoC à la production.
+- Mise en place MLOps / LLMOps.
+- Monitoring des performances.
+- Optimisation coûts / latence / qualité.
+
+## Transmission & Formation
+
+- Formation avancée en IA générative.
+- Accompagnement des équipes techniques.
+- Vulgarisation des architectures complexes.
+
+---
+
+# 🎓 Formation
+
+## MSc Big Data & Artificial Intelligence — ESTIA
+
+Formation spécialisée dans :
+
+- Intelligence artificielle.
+- Data Engineering.
+- Architectures Big Data.
+- Systèmes intelligents.
+
+---
+
+# 🛠️ Stack technologique
+
+## Artificial Intelligence
+
+- Large Language Models (LLM)
+- RAG
+- Agents IA
+- Embeddings
+- Vector Databases
+- Prompt Engineering
+- Evaluation pipelines
+
+## Engineering
+
+- Python
+- TypeScript
+- APIs REST
+- Microservices
+- Event-driven systems
+- Testing automation
+
+## Cloud & DevOps
+
+- Docker
+- Kubernetes
+- CI/CD
+- Cloud architectures
+- Monitoring & Observability
+
+---
+
+# 📌 Ma mission
+
+Construire des systèmes intelligents qui combinent :
+
+**la puissance de l’IA générative**  
++  
+**la discipline du Software Engineering**  
++  
+**l’exigence des architectures industrielles**
+
+---
+
+# ⭐ Citation
+
+> "L’intelligence artificielle devient réellement transformatrice lorsqu’elle rencontre une ingénierie logicielle d’excellence."
+
+---
+
+## Connectons-nous
+
+Je suis ouvert aux collaborations autour de :
+
+- architectures IA avancées ;
+- systèmes agentiques ;
+- plateformes GenAI ;
+- innovation technologique ;
+- projets R&D.
