@@ -10,9 +10,9 @@
   <a href="mailto:Tatang.ferol@yahoo.fr">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://profmathscpge-ai.fr">
+  <!-- <a href="https://profmathscpge-ai.fr">
     <img src="https://img.shields.io/badge/Platform-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Platform">
-  </a>
+  </a> -->
 </p>
 
 ---
