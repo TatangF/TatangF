@@ -84,17 +84,17 @@ Conçu dans le cadre de l'expérience PROF_MathsCPGE AI.
 
 ---
 
-## 🎓 Certifications & formation
+## 🎓 Certifications & Formation
 
-| | |
+| Diplôme / Certification | Spécialité & Compétences |
 |---|---|
-| **IBM RAG and Agentic AI** *(Professional Certificate, 2026)* | LangChain et LangGraph · LangGraph, CrewAI, AutoGen et BeeAI · Build AI Agents using MCP |
-| **AI Fluency** *(Anthropic, 2026)* | |
-| **Google Data Analytics** *(Professional Certificate, 2025)* | |
-| **Docker and Kubernetes Masterclass** | *en cours* |
-| **Master 2 Big Data & IA** *(ESTIA, 2023)* | |
-| **Master Big Data & Statistiques** *(ESSFAR, Yaoundé, 2022)* | |
-| **Licence Mathématiques** *(Université de Yaoundé 1, 2019)* | |
+| **IBM RAG and Agentic AI** *(Professional Certificate, 2026)* | Frameworks agentiques (LangGraph, CrewAI, AutoGen, BeeAI) · Architecture MCP · RAG Avancé |
+| **AI Fluency** *(Anthropic, 2026)* | Ingénierie de prompt avancée · Claude API & Architectures GenAI |
+| **Google Data Analytics** *(Professional Certificate, 2025)* | Analyse complexe · Pipelines de données · Data Governance |
+| **Docker & Kubernetes Masterclass** | *En cours* — Containerisation, orchestration & déploiement cloud-native |
+| **Master 2 Big Data & Intelligence Artificielle** *(ESTIA, 2023)* | Ingénierie logicielle & systèmes distribués d'IA |
+| **Master Big Data & Statistiques** *(ESSFAR, Yaoundé, 2022)* | Modélisation statistique & apprentissage automatique |
+| **Licence Mathématiques** *(Université de Yaoundé 1, 2019)* | Fondations mathématiques, algèbre & optimisation |
 
 ---
 
