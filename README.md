@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ferol-tatang)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Tatang.ferol@yahoo.fr)
-[![PROF_MathsCPGE AI](https://img.shields.io/badge/PROF__MathsCPGE_AI-2D2560?style=for-the-badge&logo=google-chrome&logoColor=white)](https://profmathscpge-ai.fr)
+[![PROF_MathsCPGE AI](https://img.shields.io/badge/PROF__MathsCPGE_AI-2D2560?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.profmathscpge-ai.fr/)
 
 </div>
 
@@ -31,7 +31,7 @@ Je conçois des architectures d'**IA générative prêtes pour la production** :
 ## 🚀 Projets majeurs
 
 ### ∑ PROF_MathsCPGE AI — Tutorat intelligent et agentique
-[profmathscpge-ai.fr](https://profmathscpge-ai.fr) · SaaS en production · petite équipe (centré sur la partie IA) · code non open source
+[profmathscpge-ai.fr](https://www.profmathscpge-ai.fr/) · SaaS en production · petite équipe (centré sur la partie IA) · code non open source
 
 Plateforme de tutorat en mathématiques, du collège aux classes préparatoires.
 
