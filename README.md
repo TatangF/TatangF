@@ -1,4 +1,4 @@
-<div align="Right">
+<div align="left">
 
 # Ferol TATANG ♞
 
